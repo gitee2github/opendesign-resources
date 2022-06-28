@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ISV@1x</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00D382" offset="0%"></stop>
+            <stop stop-color="#00685A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#00D382" offset="0%"></stop>
+            <stop stop-color="#00685A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#00D382" offset="0%"></stop>
+            <stop stop-color="#00685A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-首页_L" transform="translate(-325.000000, -4880.000000)">
+            <g id="Powered" transform="translate(0.000000, 4760.000000)">
+                <g id="Group-7" transform="translate(253.000000, 88.000000)">
+                    <g id="ISV" transform="translate(72.000000, 32.000000)">
+                        <rect id="矩形备份-13" x="0" y="0" width="72" height="72"></rect>
+                        <polygon id="多边形" fill="#96FFCF" opacity="0.50179415" points="36 9 60.9415316 23.4 60.9415316 52.2 36 66.6 11.0584684 52.2 11.0584684 23.4"></polygon>
+                        <path d="M4.95,12.6 C7.68380951,12.6 9.9,14.8161905 9.9,17.55 C9.9,17.8881996 9.86608305,18.2184775 9.80146502,18.5376178 L13.6137423,21.5754076 C14.5856588,22.3497036 14.7458617,23.7652885 13.9715657,24.7372049 C13.2309347,25.6668641 11.9035669,25.8538592 10.938967,25.1907339 L10.8097684,25.0950283 L6.99804093,22.0577731 C6.37391074,22.3417917 5.68043113,22.5 4.95,22.5 C2.21619049,22.5 0,20.2838095 0,17.55 C0,14.8161905 2.21619049,12.6 4.95,12.6 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                        <path d="M62.528833,12.6 C65.2509523,12.6 67.457666,14.750431 67.457666,17.4031221 C67.457666,17.7315741 67.4238349,18.0523259 67.3593832,18.362249 L71.1555278,21.3090867 C72.1232882,22.0604076 72.2828061,23.4339888 71.5118211,24.3770662 C70.7743571,25.2791403 69.4526653,25.4605868 68.4921902,24.817138 L68.3635441,24.7242722 L64.5678124,21.777274 C63.9464299,22.0527805 63.2560222,22.2062443 62.528833,22.2062443 C59.8067137,22.2062443 57.6,20.0558133 57.6,17.4031221 C57.6,14.750431 59.8067137,12.6 62.528833,12.6 Z" id="形状结合备份-2" fill="url(#linearGradient-2)" transform="translate(64.800000, 18.900000) scale(-1, 1) translate(-64.800000, -18.900000) "></path>
+                        <path d="M36.4233086,57.6005466 C37.5881808,57.6263039 38.5448773,58.5561016 38.6291602,59.709113 L38.6351835,59.8676614 L38.6448777,62.6976486 C40.2539957,63.4882834 41.357666,65.1130843 41.357666,66.9890866 C41.357666,69.6417777 39.1509523,71.7922087 36.428833,71.7922087 C33.7067137,71.7922087 31.5,69.6417777 31.5,66.9890866 C31.5,65.1049898 32.613215,63.4742668 34.2336454,62.687461 L34.2250637,59.7701464 C34.2212999,58.5449815 35.2054877,57.5736186 36.4233086,57.6005466 Z" id="形状结合备份-4" fill="url(#linearGradient-3)" transform="translate(36.428833, 64.696104) scale(-1, 1) translate(-36.428833, -64.696104) "></path>
+                        <polygon id="路径-4" stroke="#000000" stroke-width="4" stroke-linejoin="round" points="23.0506526 28.5374502 36.0944251 35.4749004 48.8473237 28.5374502 36.0944251 21.6"></polygon>
+                        <polyline id="路径" stroke="#000000" stroke-width="4" stroke-linejoin="round" points="23.0506526 47.7 36.0944251 54.6374502 48.8473237 47.7"></polyline>
+                        <line x1="36.1006526" y1="51.7909389" x2="36.1006526" y2="36.9" id="路径-5" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="49.05" y1="47.5862638" x2="49.05" y2="29.2090611" id="路径-5备份-2" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="22.95" y1="47.5862638" x2="22.95" y2="29.2090611" id="路径-5备份" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="22.5" y1="46.8" x2="15.6450471" y2="52.3563468" id="路径-7" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="56.7" y1="46.8" x2="49.8450471" y2="52.3563468" id="路径-7备份" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" transform="translate(53.272524, 49.578173) scale(-1, 1) translate(-53.272524, -49.578173) "></line>
+                        <circle id="椭圆形" stroke="#000000" stroke-width="5" cx="9.9" cy="56.7" r="4.7"></circle>
+                        <circle id="椭圆形备份-10" stroke="#000000" stroke-width="5" cx="36" cy="7.2" r="4.7"></circle>
+                        <circle id="椭圆形备份-9" stroke="#000000" stroke-width="5" cx="62.1" cy="56.7" r="4.7"></circle>
+                        <line x1="36" y1="22.5" x2="36" y2="12.6" id="路径-8" stroke="#000000" stroke-width="5"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
