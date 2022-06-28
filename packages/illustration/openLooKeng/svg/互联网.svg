@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Internet@1x</title>
+    <defs>
+        <rect id="path-1" x="5.45696821e-12" y="0" width="72" height="72"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#00D382" offset="0%"></stop>
+            <stop stop-color="#00685A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-首页_L" transform="translate(-1285.000000, -4880.000000)">
+            <g id="Powered" transform="translate(0.000000, 4760.000000)">
+                <g id="Group-7" transform="translate(253.000000, 88.000000)">
+                    <g id="编组-26" transform="translate(960.000000, 0.000000)">
+                        <g id="Internet" transform="translate(72.000000, 32.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="矩形备份-19"></g>
+                            <ellipse id="椭圆形备份-16" fill="#96FFCF" opacity="0.50179415" mask="url(#mask-2)" transform="translate(36.450000, 36.000000) rotate(-300.000000) translate(-36.450000, -36.000000) " cx="36.45" cy="36" rx="13.95" ry="32.4"></ellipse>
+                            <ellipse id="椭圆形备份-13" stroke="#000000" stroke-width="5" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(36.000000, 36.000000) rotate(-270.000000) translate(-36.000000, -36.000000) " cx="36" cy="36" rx="13.7" ry="33.5"></ellipse>
+                            <circle id="椭圆形" stroke="#000000" stroke-width="5" fill-rule="nonzero" mask="url(#mask-2)" cx="36" cy="36" r="33.5"></circle>
+                            <ellipse id="椭圆形备份-12" stroke="#000000" stroke-width="5" fill-rule="nonzero" mask="url(#mask-2)" cx="36" cy="36" rx="13.7" ry="33.5"></ellipse>
+                            <circle id="椭圆形备份-14" fill="url(#linearGradient-3)" mask="url(#mask-2)" cx="48.6" cy="21.6" r="8.1"></circle>
+                            <circle id="椭圆形备份-15" fill="url(#linearGradient-3)" mask="url(#mask-2)" cx="23.4" cy="50.4" r="8.1"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

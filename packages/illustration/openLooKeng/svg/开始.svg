@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3 开始@1x</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="128" height="128"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#00D382" offset="0%"></stop>
+            <stop stop-color="#00685A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-首页_L" transform="translate(-896.000000, -2784.000000)">
+            <g id="Contribution" transform="translate(0.000000, 2512.000000)">
+                <g id="Group-9" transform="translate(300.000000, 88.000000)">
+                    <g id="3-开始" transform="translate(596.000000, 184.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="矩形备份-14"></g>
+                        <g id="编组-36" mask="url(#mask-2)">
+                            <g transform="translate(5.000000, 8.000000)">
+                                <g id="编组-7" stroke="none" stroke-width="1" fill-rule="evenodd">
+                                    <g id="04报告评审-未点击" fill="#96FFCF" opacity="0.50179415">
+                                        <g id="编组-2" transform="translate(58.765583, 56.063559) scale(1, -1) translate(-58.765583, -56.063559) ">
+                                            <ellipse id="椭圆形" transform="translate(24.560428, 24.500000) rotate(-360.000000) translate(-24.560428, -24.500000) " cx="24.5604275" cy="24.5" rx="24.5604275" ry="24.5"></ellipse>
+                                            <ellipse id="椭圆形备份" transform="translate(89.268293, 96.127119) rotate(-360.000000) translate(-89.268293, -96.127119) " cx="89.2682927" cy="96.1271186" rx="16.0394629" ry="16"></ellipse>
+                                            <rect id="矩形" x="97.4818367" y="8.45291902" width="20.0493286" height="20"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="编组-3" transform="translate(12.000000, 5.127119)">
+                                        <rect id="矩形" stroke="#000000" stroke-width="5" fill="#FFFFFF" stroke-linejoin="round" x="0" y="0" width="51" height="58" rx="5"></rect>
+                                        <rect id="矩形" fill="#96FFCF" opacity="0.50179415" x="18.5322581" y="23" width="23" height="4.5" rx="1"></rect>
+                                        <rect id="矩形备份-28" fill="#96FFCF" opacity="0.50179415" x="18.5322581" y="33.5" width="23" height="4.5" rx="1"></rect>
+                                        <rect id="矩形备份-30" fill="#96FFCF" opacity="0.50179415" x="18.5322581" y="44" width="23" height="4.5" rx="1"></rect>
+                                        <rect id="矩形" x="8.82258065" y="22.5" width="6" height="6" rx="1"></rect>
+                                        <rect id="矩形备份-29" stroke="#C5FBE5" stroke-width="2" stroke-linejoin="round" x="8.82258065" y="33.5" width="6" height="6" rx="3"></rect>
+                                        <rect id="矩形备份-32" stroke="#C5FBE5" stroke-width="2" stroke-linejoin="round" x="11.3225806" y="36" width="1" height="1" rx="0.5"></rect>
+                                        <rect id="矩形备份-33" stroke="#C5FBE5" stroke-width="2" stroke-linejoin="round" x="11.3225806" y="47" width="1" height="1" rx="0.5"></rect>
+                                        <rect id="矩形备份-31" stroke="#C5FBE5" stroke-width="2" stroke-linejoin="round" x="8.82258065" y="44.5" width="6" height="6" rx="3"></rect>
+                                        <rect id="矩形" fill="#96FFCF" opacity="0.50179415" x="9" y="7.75" width="33" height="9"></rect>
+                                    </g>
+                                </g>
+                                <g id="编组-18" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(74.000000, 52.127119)">
+                                    <circle id="椭圆形" stroke="#000000" stroke-width="2" fill="#FFFFFF" cx="17.5" cy="17.5" r="16.5"></circle>
+                                    <path d="M15,8 L20,8 L20,21 L15,21 L15,8 Z M15,23 L20,23 L20,28 L15,28 L15,23 Z" id="形状结合" fill="url(#linearGradient-3)"></path>
+                                </g>
+                                <polyline id="路径-2" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="25 27.875 26.4112903 29.5 29.4544909 26.5"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
