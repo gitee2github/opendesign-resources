@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>插画/light/选中/三级插画/5</title>
+    <g id="插画/light/选中/三级插画/5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形" fill="#002FA7" opacity="0.400000006" cx="30" cy="40" r="17"></circle>
+        <g id="编组-2" transform="translate(9.666667, 13.000000)">
+            <g id="编组-18">
+                <path d="M0,15 L60,15 L60,52 C60,53.1045695 59.1045695,54 58,54 L2,54 C0.8954305,54 1.3527075e-16,53.1045695 0,52 L0,15 L0,15 Z" id="矩形" stroke="#000000" stroke-width="2"></path>
+                <path d="M2,0 L58,0 C59.1045695,-2.02906125e-16 60,0.8954305 60,2 L60,15 L60,15 L0,15 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="矩形" stroke="#000000" stroke-width="2"></path>
+                <circle id="椭圆形" fill="#D4D4D4" cx="37.5" cy="7.5" r="3"></circle>
+                <circle id="椭圆形" fill="#002FA7" cx="45" cy="7.5" r="3"></circle>
+                <circle id="椭圆形" fill="#000000" cx="52.5" cy="7.5" r="3"></circle>
+            </g>
+            <g id="编组" transform="translate(11.100000, 26.100000)" stroke="#002FA7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <line x1="22.5013184" y1="0" x2="14.6179687" y2="17.8207031" id="路径"></line>
+                <polyline id="路径-10" points="11.1757324 2.51982422 0 8.86494141 11.1757324 15.3848145"></polyline>
+                <polyline id="路径-10" transform="translate(31.687866, 8.952319) scale(-1, 1) translate(-31.687866, -8.952319) " points="37.2757324 2.51982422 26.1 8.86494141 37.2757324 15.3848145"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
