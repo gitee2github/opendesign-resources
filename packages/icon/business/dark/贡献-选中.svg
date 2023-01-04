@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>插画/dark/选中/1</title>
+    <g id="插画/dark/选中/1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形" fill="#406FE7" opacity="0.400000006" cx="48.3333333" cy="48.3333333" r="17"></circle>
+        <g id="社区贡献" transform="translate(14.333333, 10.333333)" stroke-width="2">
+            <g id="编组-12">
+                <path d="M22.1253655,46.4559525 L14.3051241,60 L9.90558447,51.1020917 L-2.95585778e-12,51.7409327 L7.90442694,38.0497466 C11.3949914,42.3926034 16.4038573,45.463225 22.1253655,46.4559525 Z" id="形状结合" stroke="#FFFFFF" stroke-linejoin="round"></path>
+                <path d="M43.9092957,38.6437529 L51.4709267,51.7409327 L41.5653423,51.1020917 L37.1658026,60 L29.4148508,46.5759584 C35.1878961,45.7709969 40.2865079,42.8597983 43.9092957,38.6437529 Z" id="形状结合" stroke="#FFFFFF" stroke-linejoin="round"></path>
+                <circle id="椭圆形" stroke="#FFFFFF" cx="26.153713" cy="23.4006905" r="23.4006905"></circle>
+                <circle id="椭圆形" stroke="#406FE7" cx="26.153713" cy="23.4006905" r="15.1416233"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
