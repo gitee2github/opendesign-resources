@@ -11,6 +11,7 @@ packages
     ├─ icon    // 图标资源
     ├─ illustration  // 插画资源
     ├─ video  // 视频资源
+    ├─ merch  // 周边资源
 ```
 
 #### 安装教程
